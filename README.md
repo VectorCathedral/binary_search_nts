@@ -1,1 +1,1 @@
-A note to self on binary search trees
+a note to self on binary search in python
